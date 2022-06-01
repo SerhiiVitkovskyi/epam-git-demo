@@ -2,3 +2,6 @@ Some text in this file.
 I have corrected tour mistake in the 1st line. 
 Oops!
 Added one new string...
+
+Some new strings
+Trying to revert
