@@ -1,0 +1,14 @@
+# no log files
+*.log
+
+# but do track error.log
+!error.log
+
+# ignore only TODO file
+/TODO
+
+# ignore all files in directory
+directory/
+
+
+doc/*.txt
