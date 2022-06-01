@@ -5,3 +5,5 @@ Added one new string...
 
 Some new strings
 Trying to revert
+
+Tne new super feature
